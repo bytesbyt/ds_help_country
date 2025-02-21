@@ -21,7 +21,7 @@ It contains country-level indicators used for clustering.
 The notebook generates:
 
 - Cluster assignments for each country
-- PCA-based 2D and 3D visualizations of clustered data
+- PCA-based 3D visualizations of clustered data
 - Silhouette score analysis for cluster quality assessment
 - Dendrograms for hierarchical clustering
 
