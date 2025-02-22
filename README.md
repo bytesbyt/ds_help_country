@@ -10,6 +10,8 @@ The notebook covers:
 - Hierarchical clustering with dendrograms
 - Evaluation using silhouette scores
 - Visualization of clusters using PCA and 3D plots
+- Visualization of the countries
+
 
 ## Data
 
