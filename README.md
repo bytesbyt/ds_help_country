@@ -24,6 +24,8 @@ The notebook generates:
 - PCA-based 3D visualizations of clustered data
 - Silhouette score analysis for cluster quality assessment
 - Dendrograms for hierarchical clustering
+- Map of countries with the greatest need
+![Image Description](10.png)
 
 ## Presentation Slides
 
