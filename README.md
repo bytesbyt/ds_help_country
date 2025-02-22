@@ -25,7 +25,7 @@ The notebook generates:
 - Silhouette score analysis for cluster quality assessment
 - Dendrograms for hierarchical clustering
 - Map of countries with the greatest need
-![Image Description](10.png)
+![Image Description](11.png)
 
 ## Presentation Slides
 
